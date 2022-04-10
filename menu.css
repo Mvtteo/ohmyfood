@@ -477,7 +477,7 @@ header a {
 }
 
 .background, .background3 {
-  background-image: url(images/toa-heftiba-DQKerTsQwi0-unsplash.jpg);
+  background-image: url(toa-heftiba-DQKerTsQwi0-unsplash.jpg);
   height: 300px;
   background-size: cover;
 }
@@ -488,7 +488,7 @@ header a {
 }
 
 .background2, .background4 {
-  background-image: url(images/stil-u2Lp8tXIcjw-unsplash.jpg);
+  background-image: url(stil-u2Lp8tXIcjw-unsplash.jpg);
   height: 300px;
   background-size: cover;
   background-position: center;
@@ -500,11 +500,11 @@ header a {
 }
 
 .background3 {
-  background-image: url(images/jay-wennington-N_Y88TWmGwA-unsplash.jpg);
+  background-image: url(jay-wennington-N_Y88TWmGwA-unsplash.jpg);
 }
 
 .background4 {
-  background-image: url(images/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg);
+  background-image: url(louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg);
 }
 
 .menu, .menu2 {
