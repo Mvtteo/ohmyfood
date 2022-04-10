@@ -778,7 +778,7 @@ a {
   }
 }
 .grey .restaurants .box__img--palette, .grey .restaurants .box__img--delice, .grey .restaurants .box2__img--delice, .grey .restaurants .box3__img--delice, .grey .restaurants .box__img--française, .grey .restaurants .box2__img--française, .grey .restaurants .box3__img--française, .grey .restaurants .box__img--note, .grey .restaurants .box2__img--note, .grey .restaurants .box3__img--note, .grey .restaurants .box2__img--palette, .grey .restaurants .box3__img--palette {
-  background-image: url("images/jay-wennington-N_Y88TWmGwA-unsplash.jpg");
+  background-image: url("jay-wennington-N_Y88TWmGwA-unsplash.jpg");
   height: 44vw;
   width: 100%;
   background-size: cover;
@@ -818,7 +818,7 @@ a {
   }
 }
 .grey .restaurants .box__img--note, .grey .restaurants .box2__img--note, .grey .restaurants .box3__img--note {
-  background-image: url("images/stil-u2Lp8tXIcjw-unsplash.jpg");
+  background-image: url("stil-u2Lp8tXIcjw-unsplash.jpg");
   background-position-y: 69vw;
 }
 @media only screen and (min-width: 993px) {
@@ -827,10 +827,10 @@ a {
   }
 }
 .grey .restaurants .box__img--française, .grey .restaurants .box2__img--française, .grey .restaurants .box3__img--française {
-  background-image: url("images/toa-heftiba-DQKerTsQwi0-unsplash.jpg");
+  background-image: url("toa-heftiba-DQKerTsQwi0-unsplash.jpg");
 }
 .grey .restaurants .box__img--delice, .grey .restaurants .box2__img--delice, .grey .restaurants .box3__img--delice {
-  background-image: url("images/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg");
+  background-image: url("louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg");
 }
 .grey .restaurants .box__group, .grey .restaurants .box2__group, .grey .restaurants .box3__group {
   display: flex;
